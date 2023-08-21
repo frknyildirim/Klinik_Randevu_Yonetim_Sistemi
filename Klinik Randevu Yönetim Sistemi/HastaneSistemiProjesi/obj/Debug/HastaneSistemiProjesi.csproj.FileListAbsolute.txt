@@ -1,0 +1,44 @@
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\bin\Debug\HastaneSistemiProjesi.exe.config
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\bin\Debug\HastaneSistemiProjesi.exe
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\bin\Debug\HastaneSistemiProjesi.pdb
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.Properties.Resources.resources
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.exe
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.pdb
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmDoktorDetay.resources
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmDoktorGiris.resources
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmGirisler.resources
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmBrans.resources
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmDoktorPaneli.resources
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmDuyurular.resources
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmSekreterDetay.resources
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmSekreterGiris.resources
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmRandevuPaneli.resources
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmYoneticiDetay.resources
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmYoneticiGiris.resources
+C:\Users\Furkan\source\repos\HastaneSistemiProjesi\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmSekreterPaneli.resources
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\bin\Debug\HastaneSistemiProjesi.exe.config
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\bin\Debug\HastaneSistemiProjesi.exe
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\bin\Debug\HastaneSistemiProjesi.pdb
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmBrans.resources
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmDoktorDetay.resources
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmDoktorGiris.resources
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmDoktorPaneli.resources
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmDuyurular.resources
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmGirisler.resources
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmRandevuPaneli.resources
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmSekreterDetay.resources
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmSekreterGiris.resources
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmSekreterPaneli.resources
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmYoneticiDetay.resources
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.FrmYoneticiGiris.resources
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.Properties.Resources.resources
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.exe
+C:\Users\Furkan\source\repos\Klinik Otomasyonu\HastaneSistemiProjesi\obj\Debug\HastaneSistemiProjesi.pdb
